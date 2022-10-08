@@ -4,7 +4,7 @@ from __future__ import print_function
 
 import matplotlib.pyplot as plt
 #from tensorflow.keras.utils import plot_model
-from keras.utils import plot_model
+from tensorflow.keras.utils import plot_model
 SAVE_PLOT = '../models/'
 
 
